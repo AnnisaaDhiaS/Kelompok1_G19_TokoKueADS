@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811996586556",
+    "project_id": "database-toko-kue",
+    "storage_bucket": "database-toko-kue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811996586556:android:1fde6696ea927c86459939",
+        "android_client_info": {
+          "package_name": "com.example.toko_kue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811996586556-vorbtvdtl2rb422adfphv80dad9uuq1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjUdMNz-CnERcCLQlh7UQirtL9NvwakC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811996586556-vorbtvdtl2rb422adfphv80dad9uuq1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
